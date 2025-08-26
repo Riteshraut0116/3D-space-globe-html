@@ -29,7 +29,7 @@ The main view of the project is the 3D space globe itself. It loads directly to 
 
 Explore the live version of the space globe here:
 
-[- 🔗 Click here to view the live site on GitHub Pages](https://riteshraut0116.github.io/ganpati_bappa_html/)
+[- 🔗 Click here to view the live site on GitHub Pages](https://riteshraut0116.github.io/3D-space-globe-html/)
 
 > 💡 Best viewed on modern browsers like Chrome, Firefox, or Edge.
 
@@ -91,5 +91,6 @@ Explore the live version of the space globe here:
 <a href="https://www.instagram.com/riteshraut1601/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riteshraut1601" height="30" width="40" /></a>
 <a href="https://www.facebook.com/ritesh.raut.649321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritesh.raut.649321" height="30" width="40" /></a>
 </p>
+
 
 ---
