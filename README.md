@@ -19,7 +19,7 @@ This project is an immersive and interactive 3D space scene created with **Three
 
 The main view of the project is the 3D space globe itself. It loads directly to the animation, allowing for immediate interaction.
 
-!Space Globe Preview
+![Space Globe Preview](3D_space-globe-files/textures/screenshot.png)
 
 > 💡 Tip: Click and drag to rotate the scene. Use your mouse wheel to zoom in and out.
 
@@ -29,7 +29,7 @@ The main view of the project is the 3D space globe itself. It loads directly to 
 
 Explore the live version of the space globe here:
 
-- 🔗 Click here to view the live site
+[- 🔗 Click here to view the live site on GitHub Pages](https://riteshraut0116.github.io/ganpati_bappa_html/)
 
 > 💡 Best viewed on modern browsers like Chrome, Firefox, or Edge.
 
@@ -37,21 +37,23 @@ Explore the live version of the space globe here:
 
 ## 📂 Repository Structure
 
-space-globe-2/
-└── dist/                      # 📁 Root folder containing all runnable files
-    ├── textures/              # 📁 Folder containing all image assets
-    │   ├── flare1.png         # ✨ Texture for distant stars
-    │   ├── flare3.png         # ✨ Texture for the comet
-    │   ├── planet1.webp       # 🪐 Texture for the blue planet
-    │   ├── planet2.webp       # 🪐 Texture for the red planet
-    │   ├── planet3.webp       # 🪐 Texture for the moon-like planet
-    │   ├── sky.jpg            # 🌌 Texture for the inner sky sphere
-    │   ├── sky1.jpg           # 🌌 Background image for the HTML body
-    │   └── star.jpg           # 🌟 Texture for the central nucleus
-    │
-    ├── index.html             # 🏠 Main HTML file that loads the scene
-    ├── script.js              # 💻 Core JavaScript file with all the Three.js logic
-    └── style.css              # 🎨 Main stylesheet for the page
+3D_space-globe-files/
+│
+├── textures/                     # Directory containing texture and background images
+│   ├── flare1.png                # Flare texture image
+│   ├── flare2.png                # Flare texture image
+│   ├── flare3.png                # Flare texture image
+│   ├── planet1.webp              # Planet texture image
+│   ├── planet2.webp              # Planet texture image
+│   ├── planet3.webp              # Planet texture image
+│   ├── sky.jpg                   # Sky background image
+│   ├── sky1.jpg                  # Alternate sky background image
+│   └── star.jpg                  # Star background image
+│
+├── index.html                    # Main HTML file for webpage structure
+├── script.js                     # JavaScript file for interactive globe logic
+├── style.css                     # CSS file for styling the webpage
+└── README.md                     # Project overview and usage instructions
 
 ---
 
@@ -70,3 +72,24 @@ space-globe-2/
 * CSS3
 * JavaScript (ES6 Modules)
 * Three.js
+
+---
+
+## 👤 Author
+
+**Ritesh Raut**  
+*Programmer Analyst, Cognizant*
+
+🚀 Explore the Cosmos in Your Browser 🌌 — A Real-Time 3D Space Experience Powered by Three.js ✨🪐
+
+---
+
+### 🌐 Connect with me:
+<p align="left">
+<a href="https://github.com/Riteshraut0116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Riteshraut0116" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ritesh-raut-9aa4b71ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ritesh-raut-9aa4b71ba" height="30" width="40" /></a>
+<a href="https://www.instagram.com/riteshraut1601/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="riteshraut1601" height="30" width="40" /></a>
+<a href="https://www.facebook.com/ritesh.raut.649321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ritesh.raut.649321" height="30" width="40" /></a>
+</p>
+
+---
