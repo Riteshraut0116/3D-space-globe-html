@@ -19,7 +19,7 @@ This project is an immersive and interactive 3D space scene created with **Three
 
 The main view of the project is the 3D space globe itself. It loads directly to the animation, allowing for immediate interaction.
 
-![Space Globe Preview](3D_space-globe-files/textures/screenshot.png)
+![Space Globe Preview](textures/screenshot.png)
 
 > 💡 Tip: Click and drag to rotate the scene. Use your mouse wheel to zoom in and out.
 
@@ -29,7 +29,7 @@ The main view of the project is the 3D space globe itself. It loads directly to 
 
 Explore the live version of the space globe here:
 
-[- 🔗 Click here to view the live site on GitHub Pages](https://riteshraut0116.github.io/ganpati_bappa_html/)
+[- 🔗 Click here to view the live site on GitHub Pages](https://riteshraut0116.github.io/3D-space-globe-html/)
 
 > 💡 Best viewed on modern browsers like Chrome, Firefox, or Edge.
 
